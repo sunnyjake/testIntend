@@ -1,0 +1,23 @@
+.row{
+    border-bottom: 1px solid blue;
+}
+.col-md-2, .col-md-8{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+input[type="button"]{
+    margin: 5px;
+}
+#days{
+    border-bottom: 2px solid lightblue;
+}
+td{
+    text-align: center;
+    height: 50px;
+    width: 14.28%;
+}
+th{
+    text-align: center;
+}
