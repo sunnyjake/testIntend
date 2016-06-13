@@ -85,7 +85,7 @@ function active(month, year) {//show nowadays
 }
 showCalendar(new Date().getFullYear(), new Date().getMonth());
 
-var globalYear = new Date();//create global year and month to remember them becouse they will be cleaned only when the window closed
+var globalYear = new Date();//create global year and month to remember them because they will be cleaned only when the window closed
 var globalMonth = new Date();
 
 function next() {//show next month calendar
